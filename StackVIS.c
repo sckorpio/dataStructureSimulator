@@ -58,7 +58,9 @@ void DisposeStack(STACK S)
 int Top(STACK S)
 {
     if(!(IsEmpty(S)))
+    {
     return(S->below->value);
+    }
 
     else
         return -999;
