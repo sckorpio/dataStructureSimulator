@@ -1,3 +1,4 @@
+![](Screenshot%20(65).png)
 # dataStructureVisualisation
 # It is a console based Visual simulator of data structure coded in C language
 # Includes stack,list,queue,trees,avl trees etc
